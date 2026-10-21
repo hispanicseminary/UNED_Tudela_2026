@@ -17,15 +17,15 @@ Desde el punto de vista metodológico, formar en HTR significa dotar al alumnado
 * presentación profesorado 
 * objetivos principales del curso: familiarizar a los estudiantes con la transcripción paleográfica, las herramientas HTR, y herramientas específicas de transformación y validación
 * ¿cuáles son los intereses o necesidades de los estudiantes?
-* ¿qué es la paleografía? [01-paleografia.pdf]
-* tipos de transcripciones paleográficas [02-tipologia.pdf]
-* las transcripciones del Hispanic Seminary of Medieval Studies [03-etiquetas_HSMS.pdf], [04-etiquetas_estructurales.pdf]
-* taller paleográfico: gótica impresa [05-ejemplario-gotica_impresa.pdf]
-* TAREA: utilizando el facsímil de BNE R/13789 [DMP.pdf], identificar la estructura de los folios 4v y 5r
+* ¿qué es la paleografía? `01-paleografia.pdf`
+* tipos de transcripciones paleográficas `02-tipologia.pdf`
+* las transcripciones del Hispanic Seminary of Medieval Studies `03-etiquetas_HSMS.pdf`, `04-etiquetas_estructurales.pdf`
+* taller paleográfico: gótica impresa `05-ejemplario-gotica_impresa.pdf`
+* TAREA: utilizando el facsímil de BNE R/13789 `DMP.pdf`, identificar la estructura de los folios 4v y 5r
 
 ### día 2
 * revisión tarea día 1
-* OCR vs HTR [06-intro_HTR]
+* OCR vs HTR `06-intro_HTR`
 * plataformas HTR
 * TAREA: crear una cuenta gratuita en Transkribus (https://readcoop.eu/transkribus/)
 
