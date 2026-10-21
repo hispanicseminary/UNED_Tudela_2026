@@ -40,6 +40,6 @@ Desde el punto de vista metodológico, formar en HTR significa dotar al alumnado
 ### día 4
 * exportación de la transcripción
 * post-procesado de la transcripción [DMP_export.txt]
-* [HTR_to_HSMS](https://hispanicseminary.org/manuales/HTR_to_HSMS/)
-* [HSMS_proofer](https://hispanicseminary.org/manuales/proofer/)
-* [analizador](https://hispanicseminary.org/manuales/analizador/)
+* [HTR_to_HSMS](https://hispanicseminary.org/manuales/HTR_to_HSMS/), manual.
+* [HSMS_proofer](https://hispanicseminary.org/manuales/proofer/), manual.
+* [analizador](https://hispanicseminary.org/manuales/analizador/), manual.
