@@ -30,7 +30,7 @@ Desde el punto de vista metodológico, formar en HTR significa dotar al alumnado
 * TAREA: crear una cuenta gratuita en Transkribus (https://readcoop.eu/transkribus/)
 
 ### día 3
-* trabajando con Transkribus
+* trabajando con Transkribus; [Guía de creación y entrenamiento de modelos Transkribus](https://meta.wikimedia.org/wiki/Transkribus_Model_Creation_and_Training_Guide/es)
 * búsqueda y carga de imágenes
 * segmentación
 * transcripción (cómo seleccionar el modelo adecuado, entendiendo CER y WER)
