@@ -46,4 +46,4 @@ Desde el punto de vista metodológico, formar en HTR significa dotar al alumnado
     * [HSMS_proofer](https://hispanicseminary.org/manuales/proofer/), manual.
     * [analizador](https://hispanicseminary.org/manuales/analizador/), manual.
     
-* paleografía asistida con IA `07-paleografia_AI.pdf`, `GMN.png`, `GMF.png`
+* paleografía asistida con IA `07-paleografia_AI.pdf`, `08-prompt_paleografía`, `GMN.png`, `GMF.png`
